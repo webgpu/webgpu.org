@@ -9,11 +9,11 @@
 
 # Community
 
-- ["Web Graphics" Matrix chat community](https://matrix.to/#/#webgraphics:matrix.org) - `#webgraphics:matrix.org`
-    - [Including the general WebGPU chat channel](https://matrix.to/#/#WebGPU:matrix.org) - `#WebGPU:matrix.org`
-- [WebGPU mailing list](https://lists.w3.org/Archives/Public/public-gpu/) - `public-gpu@w3.org`
+- The `public-gpu@w3.org` [mailing list](https://lists.w3.org/Archives/Public/public-gpu/) is a good place to ask questions or provide feedback on the API.
+- You can also join the chat on Matrix in the "Web Graphics" Matrix Community: [#webgraphics:matrix.org](https://matrix.to/#/#webgraphics:matrix.org).
+    - The general WebGPU channel is [#WebGPU:matrix.org](https://matrix.to/#/#WebGPU:matrix.org).
 
-# Samples and Demos
+# Samples &amp; Demos
 
 - [WebGPU Samples](https://webgpu.github.io/webgpu-samples/)
 
@@ -21,8 +21,21 @@
 
 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 - [WebGPU on MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
+- [Tour of WGSL](https://google.github.io/tour-of-wgsl/)
 
-# Specifications
+# Specifications &amp; Documents
 
 - [WebGPU API Specification Draft](https://gpuweb.github.io/gpuweb/)
 - [WGSL Specification Draft](https://gpuweb.github.io/gpuweb/wgsl/)
+- [WebGPU Correspondence Reference](https://gpuweb.github.io/gpuweb/correspondence/) - contributions wanted
+
+# Libraries implementing WebGPU
+
+- [wgpu](https://github.com/gfx-rs/wgpu) - Rust, used in Firefox, Servo, and Deno
+  - Available for: Rust, C ([wgpu-native](https://github.com/gfx-rs/wgpu-native) - contributions wanted)
+  - Native + WebAssembly
+- [Dawn](https://github.com/google/dawn) - C++, used in Chrome, Edge, and other Chromium browsers
+  - Available for: C, C++, [Node](https://github.com/google/dawn/tree/main/src/dawn/node)
+  - Native only
+- [Emdawnwebgpu](https://github.com/google/dawn/blob/main/src/emdawnwebgpu/pkg/README.md) - bindings for Emscripten
+  - WebAssembly only, via Emscripten
