@@ -2,10 +2,15 @@
 
 <!-- TODO: add a live webgpu test like on https://get.webgl.org -->
 
-`webgpu.org` is a work in progress. Please visit one of the links below.
+WebGPU and WGSL (WebGPU Shading Language) are W3C standards for GPU acceleration on the Web.
+There are also implementations of WebGPU in other languages, for both WebAssembly and native applications.
 
-- [WebGPU Implementation Status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status)
-- [WebGPU Report](https://webgpureport.org/)
+`webgpu.org` is a work in progress - contribute [here](https://github.com/webgpu/webgpu.org)!
+
+# Implementation Status
+
+- [WebGPU Implementation Status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - status of different browsers/OSes
+- [WebGPU Report](https://webgpureport.org/) - see what's available on your current system
 
 # Community
 
@@ -15,13 +20,13 @@
 
 # Samples &amp; Demos
 
-- [WebGPU Samples](https://webgpu.github.io/webgpu-samples/)
+- [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - sample code and demos of various features and graphics/compute techniques
 
 # Learning Resources
 
-- [WebGPU Fundamentals](https://webgpufundamentals.org/)
-- [WebGPU on MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
-- [Tour of WGSL](https://google.github.io/tour-of-wgsl/)
+- [WebGPU Fundamentals](https://webgpufundamentals.org/) - tutorials and articles on many WebGPU and graphics topics
+- [WebGPU on MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) - API documentation
+- [Tour of WGSL](https://google.github.io/tour-of-wgsl/) - tutorials on WGSL (WebGPU Shading Language)
 
 # Specifications &amp; Documents
 
