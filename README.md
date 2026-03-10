@@ -84,9 +84,22 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
   - [Apache TVM](https://github.com/apache/tvm)
 - ... and many more [here](https://github.com/mikbry/awesome-webgpu?tab=readme-ov-file#libraries)
 
+# Language bindings for WebGPU
+
+- TypeScript
+  - [@webgpu/types](https://www.npmjs.com/package/@webgpu/types)
+- C
+  - [webgpu.h](https://github.com/webgpu-native/webgpu-headers) - standardized stable header for C and FFI
+- C++
+  - Dawn and Emdawnwebgpu include C++ bindings
+  - [WebGPU-cpp](https://github.com/eliemichel/WebGPU-Cpp)
+- Rust - see below
+- JavaScript (Node/Deno) - see below
+- WebAssembly (C/C++/Rust) - see below
+
 # Libraries implementing WebGPU
 
-- [wgpu](https://github.com/gfx-rs/wgpu) - Rust, used in Firefox, Servo, and Deno
+- [wgpu](https://github.com/gfx-rs/wgpu) - Rust, used in Firefox, Servo, and [Deno](https://deno.com/blog/v1.39)
   - Available for: Rust, C ([wgpu-native](https://github.com/gfx-rs/wgpu-native) - contributions wanted)
   - Native + WebAssembly
 - [Dawn](https://github.com/google/dawn) - C++, used in Chrome, Edge, and other Chromium browsers
