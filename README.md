@@ -59,9 +59,9 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 
 - Meetups - click through for lists of presentations
   - [2026-03 GDC](https://www.khronos.org/events/3d-on-the-web-2026)
-  - 2025-07 SIGGRAPH ([video](https://www.youtube.com/watch?v=gdMtgJTe1qY), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL%2BWebGPU_SIGGRAPH_2025.pdf)
+  - 2025-07 SIGGRAPH - [video](https://www.youtube.com/watch?v=gdMtgJTe1qY), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL%2BWebGPU_SIGGRAPH_2025.pdf)
   - [2025-03 GDC](https://www.khronos.org/events/3d-on-the-web-2025)
-  - 2024-07 SIGGRAPH ([video](https://www.youtube.com/watch?v=mTYmr1b0ZnQ), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL__WebGPU_BOF_2024-07-31.pdf)
+  - 2024-07 SIGGRAPH - [video](https://www.youtube.com/watch?v=mTYmr1b0ZnQ), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL__WebGPU_BOF_2024-07-31.pdf)
   - [2024-03 GDC](https://www.khronos.org/events/webgl-webgpu-meetup-GDC-2024)
   - (just search online if you're looking for a specific past meetup)
 
