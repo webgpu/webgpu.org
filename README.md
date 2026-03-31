@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /
+---
 <img alt="WebGPU logo" src="https://raw.githubusercontent.com/gpuweb/gpuweb/cd07d570226c8e4c82a1b616f967fe76f98920a3/logo/webgpu-responsive.svg" width="400">
 
 <!-- TODO: add a live webgpu test like on https://get.webgl.org -->
