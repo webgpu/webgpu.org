@@ -11,15 +11,15 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 
 `webgpu.org` is a work in progress - contribute [here](https://github.com/webgpu/webgpu.org)!
 
-# Implementation Status
+# Implementation Status \& Bug Reporting
 
 - [WebGPU Implementation Status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - status of different browsers/OSes, and how to report bugs
-  - For status of individual features, check on your device using [WebGPU Report](https://webgpureport.org/)
+ - For status of individual features, check on your device using [WebGPU Report](https://webgpureport.org/)
 
 # Community Spaces
 
 - Chat - "Web Graphics" Matrix Community: [#webgraphics:matrix.org](https://matrix.to/#/#webgraphics:matrix.org)
-    - The general WebGPU channel is [#WebGPU:matrix.org](https://matrix.to/#/#WebGPU:matrix.org)
+  - The general WebGPU channel is [#WebGPU:matrix.org](https://matrix.to/#/#WebGPU:matrix.org)
 - Q&A and feature proposals - [GitHub Discussions](https://github.com/gpuweb/gpuweb/discussions)
 - Mailing list - `public-gpu@w3.org` [at the W3C](https://lists.w3.org/Archives/Public/public-gpu/)
 
