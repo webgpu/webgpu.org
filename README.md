@@ -11,7 +11,7 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 
 `webgpu.org` is a work in progress - contribute [here](https://github.com/webgpu/webgpu.org)!
 
-# Implementation Status \& Bug Reporting
+# Implementation Status &amp; Bug Reporting
 
 - [WebGPU Implementation Status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - status of different browsers/OSes, and how to report bugs
  - For status of individual features, check on your device using [WebGPU Report](https://webgpureport.org/)
