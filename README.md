@@ -23,6 +23,10 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 - Q&A and feature proposals - [GitHub Discussions](https://github.com/gpuweb/gpuweb/discussions)
 - Mailing list - `public-gpu@w3.org` [at the W3C](https://lists.w3.org/Archives/Public/public-gpu/)
 
+# Community Events
+
+- [WebGPU Community Meetup (Paris, Nov 5, 2026)](https://rsvp.withgoogle.com/events/webgpu-meetup) - Informal community gathering following the W3C Working Group meeting.
+
 # Samples &amp; Demos
 
 - [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - sample code and demos of various features and graphics/compute techniques
