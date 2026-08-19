@@ -57,7 +57,7 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 
 # Browser News &amp; Articles
 
-- [WebGPU on _Chrome for Developers_](https://developer.chrome.com/docs/web-platform/webgpu)
+- [WebGPU on *Chrome for Developers*](https://developer.chrome.com/docs/web-platform/webgpu)
 
 # Community Events
 
