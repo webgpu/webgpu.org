@@ -55,6 +55,10 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 - From the community:
   - [webgpu.rocks WebGPU/WGSL Reference](https://webgpu.rocks/)
 
+# Browser News &amp; Articles
+
+- [WebGPU on _Chrome for Developers_](https://developer.chrome.com/docs/web-platform/webgpu)
+
 # Community Events
 
 - Upcoming:
@@ -66,10 +70,6 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
   - 2024-07 SIGGRAPH - [video](https://www.youtube.com/watch?v=mTYmr1b0ZnQ), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL__WebGPU_BOF_2024-07-31.pdf)
   - [2024-03 GDC](https://www.khronos.org/events/webgl-webgpu-meetup-GDC-2024)
   - (just search online if you're looking for a specific past meetup)
-
-# Browser News &amp; Articles
-
-- [WebGPU on _Chrome for Developers_](https://developer.chrome.com/docs/web-platform/webgpu)
 
 # Community libraries for use with WebGPU
 
