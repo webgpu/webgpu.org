@@ -2,6 +2,7 @@
 layout: default
 permalink: /
 ---
+
 <img alt="WebGPU logo" src="https://raw.githubusercontent.com/gpuweb/gpuweb/cd07d570226c8e4c82a1b616f967fe76f98920a3/logo/webgpu-responsive.svg" width="400">
 
 <!-- TODO: add a live webgpu test like on https://get.webgl.org -->
@@ -14,7 +15,7 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 # Implementation Status &amp; Bug Reporting
 
 - [WebGPU Implementation Status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - status of different browsers/OSes, and how to report bugs
- - For status of individual features, check on your device using [WebGPU Report](https://webgpureport.org/)
+- For status of individual features, check on your device using [WebGPU Report](https://webgpureport.org/)
 
 # Community Spaces
 
@@ -25,7 +26,15 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 
 # Community Events
 
-- [WebGPU Community Meetup (Paris, Nov 5, 2026)](https://rsvp.withgoogle.com/events/webgpu-meetup) - Informal community gathering following the W3C Working Group meeting.
+- Upcoming:
+  - [WebGPU Community Meetup (Paris, Nov 5, 2026)](https://rsvp.withgoogle.com/events/webgpu-meetup) - Informal community gathering following the W3C Working Group meeting.
+- Past meetups &amp; presentations:
+  - [2026-03 GDC](https://www.khronos.org/events/3d-on-the-web-2026)
+  - 2025-07 SIGGRAPH - [video](https://www.youtube.com/watch?v=gdMtgJTe1qY), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL%2BWebGPU_SIGGRAPH_2025.pdf)
+  - [2025-03 GDC](https://www.khronos.org/events/3d-on-the-web-2025)
+  - 2024-07 SIGGRAPH - [video](https://www.youtube.com/watch?v=mTYmr1b0ZnQ), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL__WebGPU_BOF_2024-07-31.pdf)
+  - [2024-03 GDC](https://www.khronos.org/events/webgl-webgpu-meetup-GDC-2024)
+  - (just search online if you're looking for a specific past meetup)
 
 # Samples &amp; Demos
 
@@ -61,17 +70,7 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 
 # Browser News &amp; Articles
 
-- [WebGPU on *Chrome for Developers*](https://developer.chrome.com/docs/web-platform/webgpu)
-
-# Videos &amp; Presentations
-
-- Meetups - click through for lists of presentations
-  - [2026-03 GDC](https://www.khronos.org/events/3d-on-the-web-2026)
-  - 2025-07 SIGGRAPH - [video](https://www.youtube.com/watch?v=gdMtgJTe1qY), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL%2BWebGPU_SIGGRAPH_2025.pdf)
-  - [2025-03 GDC](https://www.khronos.org/events/3d-on-the-web-2025)
-  - 2024-07 SIGGRAPH - [video](https://www.youtube.com/watch?v=mTYmr1b0ZnQ), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL__WebGPU_BOF_2024-07-31.pdf)
-  - [2024-03 GDC](https://www.khronos.org/events/webgl-webgpu-meetup-GDC-2024)
-  - (just search online if you're looking for a specific past meetup)
+- [WebGPU on _Chrome for Developers_](https://developer.chrome.com/docs/web-platform/webgpu)
 
 # Community libraries for use with WebGPU
 
