@@ -79,8 +79,9 @@ There are also implementations of WebGPU in other languages, for both WebAssembl
 # Community Events
 
 - Upcoming:
-  - [WebGPU Community Meetup (Paris, Nov 5, 2026)](https://rsvp.withgoogle.com/events/webgpu-meetup) - Informal community gathering following the W3C Working Group meeting.
+  - [2026-11-05 WebGPU Community Meetup Paris](https://rsvp.withgoogle.com/events/webgpu-meetup) - Informal community gathering following the W3C Working Group meeting.
 - Past meetups &amp; presentations:
+  - 2026-07 SIGGRAPH - [video](https://www.youtube.com/watch?v=3YP5Ck-7NZk), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL%2BWebGPU_-_SIGGRAPH_Jul26.pdf)
   - [2026-03 GDC](https://www.khronos.org/events/3d-on-the-web-2026)
   - 2025-07 SIGGRAPH - [video](https://www.youtube.com/watch?v=gdMtgJTe1qY), [slides](https://www.khronos.org/assets/uploads/developers/presentations/WebGL%2BWebGPU_SIGGRAPH_2025.pdf)
   - [2025-03 GDC](https://www.khronos.org/events/3d-on-the-web-2025)
